@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### - 🌱 I’m currently learning about Data Science in Python
+### - 💬 I am always available for any projetcs similar to it ,I am looking forward to working with you
 <!--
 **HenintsoaHARINORO/HenintsoaHARINORO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
